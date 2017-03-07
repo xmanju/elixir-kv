@@ -7,11 +7,10 @@ defmodule KV do
   Hello world.
 
   ## Examples
-
       iex> KV.hello
       :world
-
   """
+  
   def hello do
     :world
   end
